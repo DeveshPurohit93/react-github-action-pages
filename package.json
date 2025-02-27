@@ -2,7 +2,7 @@
   "name": "your-app-name",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://<username>.github.io/<repository-name>",
+  "homepage": "https://github.com/DeveshPurohit93/react-github-action-pages",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
